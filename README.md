@@ -82,3 +82,7 @@ index 0000000..aea87e3
 +       !llvm_android_mainline && is_clang &&
 
 ```
+
+
+# Sources
+This PKGBUILD and associated files in this repo were copied from https://gitlab.archlinux.org/archlinux/packaging/packages/chromium (Official Arch Linux Chromium package source) and modified with only the necessary pieces from the ALARM PKGBUILD found here: https://github.com/archlinuxarm/PKGBUILDs/blob/master/extra/chromium/PKGBUILD
